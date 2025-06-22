@@ -51,6 +51,14 @@ feel free to connect with me on Instagram or via GitHub. I’m open to learning,
 
 ---
 
+## 🚀 Featured Projects
+
+### 🔹 [Pent – Demo Content](./assets/pent)
+A clean static + animated post made using Canva for a beverage brand.  
+This was ZedWorks’ first-ever branded content post — designed for social media engagement.
+
+---
+
 Let the content speak.  
 Let the impact be seen.  
 This is **ZedWorks** 💼✨
